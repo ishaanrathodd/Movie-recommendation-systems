@@ -1,0 +1,7 @@
+streamlit
+pandas
+surprise
+fuzzywuzzy
+numpy
+scikit-learn
+nltk
