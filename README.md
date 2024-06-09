@@ -1,5 +1,9 @@
 # Movie Recommendation System
 
+
+<img width="1710" alt="image" src="https://github.com/ishaanrathodd/Movie-recommendation-systems/assets/90642857/edfd1d57-45e1-4186-8ea5-6b995ba16c55">
+
+
 This repository contains implementations of various movie recommendation algorithms including Content-Based, Collaborative Filtering, and Hybrid methods. These algorithms are implemented using Python and popular libraries such as scikit-learn, Surprise, and Streamlit.
 
 ## Overview
